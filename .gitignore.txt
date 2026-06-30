@@ -1,0 +1,11 @@
+db/
+incremental_db/
+output_files/
+
+*.rpt
+*.bak
+*.tmp
+*.log
+*.qws
+
+simulation/modelsim/
