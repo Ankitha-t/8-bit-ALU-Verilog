@@ -66,13 +66,13 @@ ALU_8bit
 
 ## RTL Viewer
 
-(Add the image here after uploading to GitHub)
+rtl_viewer.png
 
 ---
 
 ## Simulation Waveform
 
-(Add the image here after uploading to GitHub)
+waveform.png
 
 ---
 
