@@ -66,13 +66,13 @@ ALU_8bit
 
 ## RTL Viewer
 
-(rtl_viewer.png)
+![rtl_viewer](rtl_viewer.png)
 
 ---
 
 ## Simulation Waveform
 
-(waveform.png)
+![Simulation Waveform](waveform.png)
 
 ---
 
